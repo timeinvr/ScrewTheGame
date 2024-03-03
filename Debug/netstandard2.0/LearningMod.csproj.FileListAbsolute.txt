@@ -1,0 +1,5 @@
+D:\MyGorillaTagLegalMods\Content\GorillaTagModTemplateProject\obj\Debug\netstandard2.0\LearningMod.csproj.AssemblyReference.cache
+D:\MyGorillaTagLegalMods\Content\GorillaTagModTemplateProject\obj\Debug\netstandard2.0\LearningMod.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGorillaTagLegalMods\Content\GorillaTagModTemplateProject\obj\Debug\netstandard2.0\LearningMod.AssemblyInfoInputs.cache
+D:\MyGorillaTagLegalMods\Content\GorillaTagModTemplateProject\obj\Debug\netstandard2.0\LearningMod.AssemblyInfo.cs
+D:\MyGorillaTagLegalMods\Content\GorillaTagModTemplateProject\obj\Debug\netstandard2.0\LearningMod.csproj.CoreCompileInputs.cache

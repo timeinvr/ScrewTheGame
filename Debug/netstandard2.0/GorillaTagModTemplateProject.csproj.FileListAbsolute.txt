@@ -1,0 +1,5 @@
+D:\My Custom Legal Gorilla Tag Mods\Content\GorillaTagModTemplateProject\obj\Debug\netstandard2.0\GorillaTagModTemplateProject.csproj.AssemblyReference.cache
+D:\My Custom Legal Gorilla Tag Mods\Content\GorillaTagModTemplateProject\obj\Debug\netstandard2.0\GorillaTagModTemplateProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Custom Legal Gorilla Tag Mods\Content\GorillaTagModTemplateProject\obj\Debug\netstandard2.0\GorillaTagModTemplateProject.AssemblyInfoInputs.cache
+D:\My Custom Legal Gorilla Tag Mods\Content\GorillaTagModTemplateProject\obj\Debug\netstandard2.0\GorillaTagModTemplateProject.AssemblyInfo.cs
+D:\My Custom Legal Gorilla Tag Mods\Content\GorillaTagModTemplateProject\obj\Debug\netstandard2.0\GorillaTagModTemplateProject.csproj.CoreCompileInputs.cache
